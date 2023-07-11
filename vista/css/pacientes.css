@@ -1,0 +1,37 @@
+.preg_resp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px 5px 5px 10px;
+}
+
+.pregunta{
+    width: 500px;
+}
+
+.respuesta{
+    display:flex;
+    margin-right: 15px;
+}
+
+.pregunta1{
+    margin-left: 25px;
+    width: 500px;
+}
+
+.pregunta2{
+    margin-left: 45px;
+}
+
+.respuesta1{
+    margin-right: 15px;
+}
+
+.input[type=radio] {
+    margin: 4px 10px 0 !important;
+}
+
+.subtitulos{
+    margin-left: 40px;
+    margin-top:20px;
+}

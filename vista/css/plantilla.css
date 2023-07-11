@@ -1,0 +1,135 @@
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+    color: #fff !important;
+    background: #3f6791 !important;
+    font-weight: bold !important;
+    
+}
+
+.main-header .nav-link {
+    height: 5rem !important;
+    
+}
+
+.sidebar-mini{
+    height: 100vh !important;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white !important;
+    background: #007bff !important;
+    font-weight: bold !important;
+}
+
+table.dataTable tbody td {
+    white-space: nowrap !important;
+    font-size: 15px !important;
+}
+
+#tbl_productos thead th{
+    white-space: nowrap !important;
+}
+
+.addNewRecord{
+    background-color: #198754 !important;
+    color: white !important;
+}
+
+.buttons-excel{
+    background-color: #0d6efd !important;
+    color: white !important;
+}
+
+.buttons-print{
+    background-color: #ffc107 !important;
+    color: white !important;
+}
+
+.dt-button{
+    padding-top: 5px  !important;
+    padding-bottom: 5px !important;
+}
+
+#tbl_productos tbody tr td{
+    padding: 3px !important;
+}
+
+.transparentbar {
+    background-repeat:no-repeat;
+    cursor:pointer;
+    outline:none;
+    border:none;
+    box-shadow:none; 
+    background-image: none;  
+    background-color: transparent;
+  
+  }
+  
+  .btn-check:focus+.btn-primary, .btn-primary:focus {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  .transparentbar:hover {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+  }
+
+  /* .sidebar-mini {
+    height: 100vh !important; 
+  } */
+
+  
+
+  .dataTables_wrapper .dataTables_paginate .paginate_button {
+    border-radius: 50%;
+  }
+  
+  div.dataTables_wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#tblDetalleVenta_length, #tblDetalleVenta_filter{
+    display: none !important;
+}
+
+button.tabledit-save-button.btn.btn-sm.btn-success{
+    font-size: 0 !important;
+}
+
+button.tabledit-save-button.btn.btn-sm.btn-success:before{
+    font-size: 12px !important;
+    content: "Guardar";
+}
+
+button.btn.btn-danger.btn-sm.tabledit-confirm-button{
+    font-size: 0 !important;
+}
+
+button.btn.btn-danger.btn-sm.tabledit-confirm-button:before{
+    font-size: 12px !important;
+    content: "Confirmar";
+}
+
+.btn-toolbar{
+    flex-wrap: nowrap !important;
+}
+
+button.tabledit-save-button.btn.btn-sm.btn-success{
+    margin: 0 5px !important;
+}
+
+button.btn.btn-danger.btn-sm.tabledit-confirm.button{
+    margin: 0 5px !important;
+}
+
+.user-panel img {
+margin-top: 1rem !important;
+    width: 4rem !important;
+}

@@ -1,0 +1,21 @@
+.hero-unit{
+    width: 780px;
+    margin:10px 20px;
+}
+ul.wysihtml5-toolbar {
+    background: antiquewhite;
+    width: 780px;
+}
+.wysihtml5-editor{
+    color: #000 !important;
+    font-size: 20px !important;
+}
+
+.dropdown-menu>li>a {
+    color: #fff;
+}
+
+.contenido{
+    max-width: 870px;
+    margin:0px;
+}

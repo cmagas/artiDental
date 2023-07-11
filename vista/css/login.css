@@ -1,0 +1,15 @@
+body {
+    background-image: url('../../images/fondo2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.login-card-body, .register-card-body {
+    background-color: #1F69CA !important;
+    color:#fff !important;
+    
+}
